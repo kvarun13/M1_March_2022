@@ -1,2 +1,2 @@
 # Badges
-https://api.codiga.io/project/32233/status/svg
+https://app.codiga.io/public/project/32233/M1_March_2022/dashboard
