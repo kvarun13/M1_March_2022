@@ -26,10 +26,10 @@
 ||LLR_2|Allocates the memory based on the operation|Implemented|
 
 # 4W's & 1H
-***What** : A reliable and easy-to-use Calculator.
-***When** : When ever there is a need to calculate the major math problems especially while practicing for exam.
-***Why** : It helps in reducing the calculation time and soving problems which is the key factor in deciding the rank in exam.
-***How** By offering a software soltion using C Programming.
+**What** : A reliable and easy-to-use Calculator.
+**When** : When ever there is a need to calculate the major math problems especially while practicing for exam.
+**Why** : It helps in reducing the calculation time and soving problems which is the key factor in deciding the rank in exam.
+**How** By offering a software soltion using C Programming.
 
 # References
 
