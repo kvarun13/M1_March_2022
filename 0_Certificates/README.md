@@ -1,4 +1,3 @@
- 
 The certifiates added in the folder are:
 
    * Sololearn certificate for Basics of C Programming
