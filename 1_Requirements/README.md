@@ -1,7 +1,7 @@
 # Description
 *Calculator is a device that includes standard, scientific, programmer, and date calculation modes. Scientific mode is typically used for more complex math functions like trignometry, exponents, and logarithms which makes it easy to use day by day for daily math related problems.
 
-2_Requirements
+# 2.Requirements
 *Visual Studio Code, gcc compiler, Linux OS, Windows OS
 
 # Features
