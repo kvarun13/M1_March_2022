@@ -1,13 +1,13 @@
-# Description
+# 1.Description
 *Calculator is a device that includes standard, scientific, programmer, and date calculation modes. Scientific mode is typically used for more complex math functions like trignometry, exponents, and logarithms which makes it easy to use day by day for daily math related problems.
 
-# Requirements
+# 2.Requirements
 *Visual Studio Code, gcc compiler, Linux OS, Windows OS
-# Features
+# 3.Features
 *You can get answer of the problem based on the operation you used.
 *Multiple operations can be selected.
 *Read the data based on the operation we select. 
-# Highlevel Requirements
+# 4.Highlevel Requirements
 |HLR_ID|Description|Status|
 |:--:|:--:|:--:|
 |HLR_1|This project helps us to get the answer based on the operation|Implemented|
@@ -16,7 +16,7 @@
 |HLR_4|This project has a feature of showing answer with decimal values|Implimented|
 |HLR_5|This projects allows to include integration with expression|Future|
 
-# Lowlevel Requirements
+# 5.Lowlevel Requirements
 |HLD_ID|LLR_ID|Description|status|
 |:--:|:--:|:--:|:--:|
 |HLR_1|LLR_1|Selects the inputs according to the operation|Implemented|
@@ -25,7 +25,7 @@
 ||LLR_2|Allocates the memory based on the operation|Implemented|
 
 
-# SWOT Analysis
+# 6.SWOT Analysis
 
 
 # 4W's & 1H
@@ -34,6 +34,6 @@
 * **Why** : It helps in reducing the calculation time and soving problems which is the key factor in deciding the rank in exam.
 * **How** By offering a software soltion using C Programming.
 
-# References
+# 7.References
 
 https://www.calculator.net/scientific-calculator.html
