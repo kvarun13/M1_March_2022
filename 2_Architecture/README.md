@@ -1,1 +1,1 @@
-2_Architecture/flowgraph.drawio
+*2_Architecture/flowgraph.drawio
