@@ -33,7 +33,7 @@
 |HLR_2|LLR_1|Reads the input based on the opertions selected|Implemented|
 ||LLR_2|Allocates the memory based on the operation|Implemented|
 
-6. 4W's & 1H
+6.4W's & 1H
 
 ***What** : A reliable and easy-to-use Calculator.
 
